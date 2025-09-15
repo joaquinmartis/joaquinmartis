@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hola! 👋
 
+Experto en redstone
+
+Solo hago cosas que me parecen divertidas
 <!--
 **joaquinmartis/joaquinmartis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
